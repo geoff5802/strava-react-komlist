@@ -1,0 +1,12 @@
+table{
+  margin: 0 auto;
+}
+th{
+  text-align: left;
+}
+td{
+  padding: 5px 10px 5px 0;
+}
+#header{
+  text-align: center;
+}
